@@ -1,1 +1,2 @@
-# volleyball_gamemodel
+# what
+- バレーボールのゲームモデルについて検討する
